@@ -1,5 +1,9 @@
 
 ## Turkish Url Slug in Hugo
+
+> hugo static site generator does not support Turkish language url slug, it is a small script solution for this problem.
+
+
 ### install and usage
 
 
